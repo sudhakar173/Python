@@ -1,0 +1,4 @@
+import math
+i=float(input())
+j=math.sqrt(i)
+print("{:.3f}".format(j))
